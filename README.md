@@ -13,3 +13,12 @@ I believe in actions that can have a positive impact on people's lives.
 I also really like the area of digital media and video production, I already had a company in this area, for some years.
 
 # Introduction - Web Development 
+
+#### Block 1: Introduction - Unix & Shell
+[x] 1-3: Setup
+[x] 1-3: Introduction - Web Developping
+[x] 1-3: Introduction - Unix & Shell
+[x] 1-3: Unix & Bash - Part 1
+[x] 1-4: Unix & Bash - Part 2
+[x] 1-5: Shell Script
+
