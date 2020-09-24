@@ -65,3 +65,33 @@ I also really like the area of digital media and video production, I already had
 - [x] 6-4: CSS Flexbox - Part 2
 - [x] 6-5: Responsive CSS - Mobile First
 - [x] 6-6: Project - Facebook Home
+
+#### Block 7: Javascript ES6 & Unit Tests
+- [x] 7-1: Javascript ES6 - let, const, arrow functions and template literals
+- [x] 7-2: Javascript ES6 - Objects
+- [x] 7-3: Javascript Unit Tests
+- [x] 7-4: Project - Javascript Unit Tests
+
+#### Block 8: Javascript ES6
+- [x] 8-1: Javascript ES6 - Higher Order Functions - foreach, find, some, every, sort
+- [x] 8-2: Javascript ES6 - Higher Order Functions - map and filter
+- [x] 8-3: Javascript ES6 - Higher Order Functions - reduce
+- [x] 8-4: Javascript ES6 - spread operator, rest parameter, destructuring and more
+- [x] 8-5: Project - Zoo Functions
+
+#### Block 9: Asynchonicity & Callbacks
+- [x] 9-1: Asynchronous Javascript and Callbacks
+- [x] 9-2: Javascript Promisses
+- [x] 9-3: Project - Shopping Cart
+
+#### Block 10: Jest
+- [x] 10-1: First steps at Jest
+- [x] 10-1: Jest - Asynchronous Tests
+- [x] 10-2: Jest - Simulating behaviors
+- [x] 10-3: Project - Asynchronous Jest and Mocking
+
+#### Block 11: Introduction - React
+- [x] 11-1: Introduction - React
+- [x] 11-2: 'Hello World' in React
+- [x] 11-3: React Components
+- [x] 11-4: Project - Movie Cards Library
