@@ -3,7 +3,7 @@
 Passionate about technology!
 
 ### Full Stack Web Developer Student at Trybe
-Here are some ideas to get you started:
+Here you can find my activities as a student and as a freelancer in web development.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
