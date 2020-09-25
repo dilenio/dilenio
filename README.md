@@ -1,5 +1,5 @@
 ## 👋 Hi, i'm
-# Dilenio Enderle --> (Linkedin)[https://linkedin.com/in/dilenio]
+# Dilenio Enderle --> [Linkedin](https://linkedin.com/in/dilenio)
 Passionate about technology!
 
 ### Full Stack Web Developer Student at Trybe
@@ -110,4 +110,15 @@ I also really like the area of digital media and video production, I already had
 - [ ] 14-1: Agile Methodologies
 - [ ] 14-2: Project - Frontend Online Store
 
+#### Block 15: React Testing Library
+- [ ] 15-1: Testing React with React Testing Library - Part 1
+- [ ] 15-2: Testing React with React Testing Library - Part 2
+- [ ] 15-3: Project - React Tests
 
+#### Block 16: React & Redux
+- [ ] 16-1: Introduction to Redux
+- [ ] 16-2: React with Redux - Part 1
+- [ ] 16-3: React with Redux - Pratice
+- [ ] 16-4: React with Redux - Part 2
+- [ ] 16-5: Synchronous tests with React & Redux
+- [ ] 16-6: Project - Table with data filters
