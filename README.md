@@ -92,6 +92,22 @@ I also really like the area of digital media and video production, I already had
 
 #### Block 11: Introduction - React
 - [x] 11-1: Introduction - React
-- [x] 11-2: 'Hello World' in React
-- [x] 11-3: React Components
-- [x] 11-4: Project - Movie Cards Library
+- [x] 11-1: 'Hello World' in React
+- [x] 11-2: React Components
+- [x] 11-3: Project - Movie Cards Library
+
+#### Block 12: React
+- [x] 12-1: Components with state and events
+- [x] 12-2: React forms
+- [x] 12-1: Project - Movie Cards Library Stateful
+
+#### Block 13: React - Lifecycle of Components
+- [x] 13-1: Lifecycle of components
+- [x] 13-2: React Router
+- [x] 13-3: Project - Movie Cards Library CRUD
+
+#### Block 14: Agile Methodologies
+- [ ] 14-1: Agile Methodologies
+- [ ] 14-2: Project - Frontend Online Store
+
+
