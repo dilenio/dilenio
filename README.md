@@ -1,5 +1,5 @@
 ## 👋 Hi, i'm
-# Dilenio Enderle
+# Dilenio Enderle --> (Linkedin)[https://linkedin.com/in/dilenio]
 Passionate about technology!
 
 ### Full Stack Web Developer Student at Trybe
