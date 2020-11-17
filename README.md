@@ -11,3 +11,5 @@ I study Full Stack Web Development at Trybe, a school that in its teaching metho
 
 I believe in actions that can have a positive impact on people's lives.
 I also really like the area of digital media and video production, I already had a company in this area, for some years.
+
+I am concluding the first part of the course in which we fully learned the frontend module, using technologies such as: html, css, javascript, react and redux.
