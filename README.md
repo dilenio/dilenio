@@ -2,7 +2,7 @@
 # Dilenio Enderle --> [Linkedin](https://linkedin.com/in/dilenio)
 Passionate about technology!
 
-### Full Stack Web Developer Student at [Trybe](https://betrybe.com)
+### Software Engineer | Front-end developer
 Here you can find my activities as a student and as a freelancer in web development.
 
 I am passionate about Technology and my goal is to learn and apply all the acquired knowledge.
