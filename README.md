@@ -1,8 +1,7 @@
 ## 👋 Hi, i'm
 # Dilenio Enderle --> [Linkedin](https://linkedin.com/in/dilenio)
-Passionate about technology!
-
 ### Software Engineer | Front-end developer
+
 Here you can find my activities as a student and as a freelancer in web development.
 
 I am passionate about Technology and my goal is to learn and apply all the acquired knowledge.
