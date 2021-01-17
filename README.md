@@ -1,6 +1,6 @@
 ## Hey, i'm Dilenio 👋 
-# [Linkedin](https://linkedin.com/in/dilenio)
-### Software Engineer | Front-end developer
+### [Linkedin](https://linkedin.com/in/dilenio)
+## Software Engineer | Front-end developer
 
 Here you can find my activities as a professional and as a student in web development.
 
