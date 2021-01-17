@@ -11,4 +11,7 @@ I also really like the area of digital media and video production, I already had
 
 👨‍💻 Some technologies that I'm comfortable with:: HTML, CSS, Javascript, React, Redux, Context and Hooks, Node, API REST, MySQL, MongoDB, Git, Scrum, Kanban.
 
-I study Full Stack Web Development at Trybe, a school that in its teaching methodology gives its students a real day by day experience as a web developer, has a curriculum with more than **1500 hours** of online classes in addition content and projects for offline study and covers [hard skills](https://betrybe.com) front-end, back-end, computer science, software engineering, agile methodologies and [soft skills](https://betrybe.com).
+🇧🇷 Born in Itapiranga SC, Brazil
+🇧🇷 Living in Jequié BA, Brazil
+
+📚 I study Full Stack Web Development at Trybe, a school that in its teaching methodology gives its students a real day by day experience as a web developer, has a curriculum with more than **1500 hours** of online classes in addition content and projects for offline study and covers [hard skills](https://betrybe.com) front-end, back-end, computer science, software engineering, agile methodologies and [soft skills](https://betrybe.com).
