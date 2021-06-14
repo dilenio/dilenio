@@ -1,4 +1,4 @@
-## Hey, i'm Dilenio 👋 
+## Hey, I'm Dilenio 👋 
 ### [Linkedin](https://linkedin.com/in/dilenio)
 ## Software Architect
 
