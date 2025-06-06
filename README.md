@@ -9,7 +9,7 @@ I am passionate about Technology and my goal is to learn and apply all the acqui
 I believe in actions that can have a positive impact on people's lives.
 I also really like the area of digital media and video production, I already had a company in this area, for some years.
 
-👨‍💻 Some technologies that I'm comfortable with:: HTML, CSS, Javascript, React, Redux, Context and Hooks, Node, API RESTful, MySQL, MongoDB, Git, Scrum, Kanban.
+👨‍💻 Some technologies that I'm comfortable with:: HTML, CSS, Javascript, React, Redux, Context and Hooks, Node, API RESTful, MySQL, MongoDB, GoLang, Git, Scrum, Kanban.
 
 🇧🇷 Born in Itapiranga SC, Brazil
 🇧🇷 Living in Jequié BA, Brazil
